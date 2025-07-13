@@ -11,7 +11,7 @@ It combines data on military operations and weather summaries, and visualizes pa
 | File | Description |
 |------|-------------|
 | `Time_series_WW2.ipynb` | Jupyter Notebook for time series visualizations and insights |
-| `operations.csv` | Dataset of aerial bombing operations (from Kaggle) |
+| `operations.csv.zip` | Dataset of aerial bombing operations (from Kaggle) |
 | `Summary of Weather.csv` | Daily weather summary data |
 | `Weather Station Locations.csv` | Metadata for weather stations |
 
@@ -39,8 +39,8 @@ It combines data on military operations and weather summaries, and visualizes pa
 - Were there seasonal patterns?
 - How did weather correlate with operation frequency?
 
----
 
+---
 
 ## 📁 Dataset Source
 
@@ -49,6 +49,16 @@ The datasets used in this project were obtained from the following Kaggle notebo
 - [Time Series Prediction Tutorial with EDA – by kanncaa1](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda/input)
 
 All CSV files (`operations.csv`, `Summary of Weather.csv`, `Weather Station Locations.csv`) were part of the notebook's input section.
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo or download all files
+2. Unzip `operations.zip` into the same folder
+3. Open `Time_series_WW2.ipynb` in Jupyter or Google Colab
+4. Run the notebook to explore the visual time series analysis
 
 
 ---
